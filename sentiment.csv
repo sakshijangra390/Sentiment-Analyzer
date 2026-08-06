@@ -1,0 +1,63 @@
+text,sentiment
+I love this product,Positive
+This movie is amazing,Positive
+The food was delicious,Positive
+I am very happy today,Positive
+The service was excellent,Positive
+Everything is perfect,Positive
+This is the best phone,Positive
+The weather is beautiful,Positive
+I enjoyed the trip,Positive
+The teacher explained well,Positive
+I like this application,Positive
+This laptop is fantastic,Positive
+The book is interesting,Positive
+I am feeling great,Positive
+Excellent customer service,Positive
+The project is awesome,Positive
+Very good experience,Positive
+Highly recommended,Positive
+This camera works perfectly,Positive
+I am satisfied with the purchase,Positive
+
+I hate this product,Negative
+This movie is terrible,Negative
+The food tastes awful,Negative
+I am very disappointed,Negative
+Worst experience ever,Negative
+Everything is bad,Negative
+The service was poor,Negative
+The phone is useless,Negative
+I don't like this app,Negative
+Very slow performance,Negative
+This laptop is not good,Negative
+The book is boring,Negative
+I am unhappy today,Negative
+Waste of money,Negative
+Bad customer service,Negative
+Very frustrating experience,Negative
+The quality is poor,Negative
+I regret buying this,Negative
+Not recommended,Negative
+The product is damaged,Negative
+
+The meeting is tomorrow,Neutral
+Today is Monday,Neutral
+I have a computer,Neutral
+The book is on the table,Neutral
+It is raining outside,Neutral
+The class starts at 9 AM,Neutral
+Python is a programming language,Neutral
+I am using a laptop,Neutral
+The train arrived on time,Neutral
+She is reading a book,Neutral
+The exam is next week,Neutral
+This is a chair,Neutral
+He lives in Delhi,Neutral
+Water boils at 100 degrees,Neutral
+The file has been uploaded,Neutral
+Today is sunny,Neutral
+The shop opens at 10 AM,Neutral
+The meeting has ended,Neutral
+I am learning Python,Neutral
+The project is completed,Neutral

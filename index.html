@@ -1,0 +1,23 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+
+<h1>😊 AI Sentiment Analyzer</h1>
+
+<form action="/predict" method="POST">
+
+    <textarea
+        name="text"
+        rows="8"
+        placeholder="Enter your text here..."
+        required></textarea>
+
+    <br><br>
+
+    <button type="submit">
+        Analyze Sentiment
+    </button>
+
+</form>
+
+{% endblock %}
